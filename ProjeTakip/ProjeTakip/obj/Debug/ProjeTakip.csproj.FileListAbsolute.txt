@@ -1,0 +1,14 @@
+C:\Users\Ahmet Güler\source\repos\ProjeTakip\ProjeTakip\bin\Debug\ProjeTakip.exe.config
+C:\Users\Ahmet Güler\source\repos\ProjeTakip\ProjeTakip\bin\Debug\ProjeTakip.exe
+C:\Users\Ahmet Güler\source\repos\ProjeTakip\ProjeTakip\bin\Debug\ProjeTakip.pdb
+C:\Users\Ahmet Güler\source\repos\ProjeTakip\ProjeTakip\obj\Debug\ProjeTakip.csprojAssemblyReference.cache
+C:\Users\Ahmet Güler\source\repos\ProjeTakip\ProjeTakip\obj\Debug\ProjeTakip.Projetakip.resources
+C:\Users\Ahmet Güler\source\repos\ProjeTakip\ProjeTakip\obj\Debug\ProjeTakip.KullanıcıGirisForm.resources
+C:\Users\Ahmet Güler\source\repos\ProjeTakip\ProjeTakip\obj\Debug\ProjeTakip.Properties.Resources.resources
+C:\Users\Ahmet Güler\source\repos\ProjeTakip\ProjeTakip\obj\Debug\ProjeTakip.csproj.GenerateResource.cache
+C:\Users\Ahmet Güler\source\repos\ProjeTakip\ProjeTakip\obj\Debug\ProjeTakip.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Güler\source\repos\ProjeTakip\ProjeTakip\obj\Debug\ProjeTakip.exe
+C:\Users\Ahmet Güler\source\repos\ProjeTakip\ProjeTakip\obj\Debug\ProjeTakip.pdb
+C:\Users\Ahmet Güler\source\repos\ProjeTakip\ProjeTakip\obj\Debug\ProjeTakip.AnaMenu.resources
+C:\Users\Ahmet Güler\source\repos\ProjeTakip\ProjeTakip\obj\Debug\ProjeTakip.ProjelerForm.resources
+C:\Users\Ahmet Güler\source\repos\ProjeTakip\ProjeTakip\obj\Debug\ProjeTakip.MusterilerForm.resources
